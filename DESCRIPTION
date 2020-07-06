@@ -14,7 +14,7 @@ Imports: beeswarm, BiocParallel, CHNOSZ, ggplot2, graph, graphics,
          randomForest, Rdisop, readr, readxl, rmarkdown, R.oo, snow, stats, stringr,
          tibble, utils, zip
 License: GPL-2 | file LICENSE
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 Suggests: knitr,
     rmarkdown,
     BiocStyle,
